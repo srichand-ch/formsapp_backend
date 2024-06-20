@@ -50,3 +50,24 @@
 </ul>
 
 <p>The server will start running on <a href="http://localhost:3000">http://localhost:3000</a></p>
+
+<h2>Endpoints</h2>
+
+<h3>Ping</h3>
+
+<ul>
+  <li>Endpoint: /ping</li>
+  <li>Method: GET</li>
+  <li>Description: Checks server status.</li>
+  <li>Response: Returns { "success": true } if the server is running.</li>
+</ul>
+
+<h3>Submit Form</h3>
+
+<ul>
+  <li>Endpoint: <a href="/submit">/submit</a> </li>
+  <li>Method: POST</li>
+  <li>Parameters: JSON object with fields: 'name', 'email', 'phone', 'githubLink', 'stopwatchTime'.</li>
+  <li>Description:  Stores a new form submission in the database..</li>
+  <li>Response: Returns { "success": true, "message": "Submission saved" } upon successful submission.</li>
+</ul>
