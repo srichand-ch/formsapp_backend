@@ -17,7 +17,7 @@
 
 <h3>Installation</h3>
 
-<ul></ul>
+<ul>
 
 <p>1. Clone the repository: </p>
 
