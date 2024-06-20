@@ -49,4 +49,4 @@
 
 </ul>
 
-<p>The server will start running on 'http://localhost:3000'.</p>
+<p>The server will start running on <a href="http://localhost:3000">http://localhost:3000</a></p>
