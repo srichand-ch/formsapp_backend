@@ -92,6 +92,14 @@
   <li>Response: Returns '{ "message": "Deletion successful!" }' upon successful deletion or '{ "message": "Invalid index" }' if the index is out of range.</li>
 </ul>
 
+<ul>
+  <li>Endpoint: <a href="/update">/update</a> </li>
+  <li>Method: PUT</li>
+  <li>Parameters: 'index' (0-indexed position of the form submission to delete)</li>
+  <li>Description: Updates a form submission based on the specified index.</li>
+  <li>Response: Returns '{ "message": "Updation successful!" }' upon successful updation or '{ "message": "Invalid index" }' if the index is out of range.</li>
+</ul>
+
 
 
 
