@@ -28,3 +28,15 @@
 <pre><code>npm install</code></pre>
 
 <h3>Running the server</h3>
+
+<p>To start the backend server:</p>
+
+<p>1. Open the Terminal</p>
+
+<p>2. Navigate to the project directory</p>
+
+<p>3. Run the following: </p>
+
+<pre><code>npx ts-node src/index.ts</code></pre>
+
+<p>This command uses 'ts-node' to directly execute TypeScript files ('src/index.ts'). It compiles TypeScript on-the-fly and runs the server.</p>
