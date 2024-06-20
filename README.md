@@ -17,6 +17,8 @@
 
 <h3>Installation</h3>
 
+<ul></ul>
+
 <p>1. Clone the repository: </p>
 
 <pre><code>git clone https://github.com/srichand-ch/formsapp_backend.git</code></pre>
@@ -26,6 +28,8 @@
 <p>3. Install dependencies</p>
 
 <pre><code>npm install</code></pre>
+
+</ul>
 
 <h3>Running the server</h3>
 
