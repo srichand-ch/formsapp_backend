@@ -35,6 +35,8 @@
 
 <p>To start the backend server:</p>
 
+<ul>
+
 <p>1. Open the Terminal</p>
 
 <p>2. Navigate to the project directory</p>
@@ -44,3 +46,5 @@
 <pre><code>npx ts-node src/index.ts</code></pre>
 
 <p>This command uses 'ts-node' to directly execute TypeScript files ('src/index.ts'). It compiles TypeScript on-the-fly and runs the server.</p>
+
+</ul>
