@@ -1,0 +1,53 @@
+{
+  "submissions": [
+    {
+      "Name": "Sai Sri Chand Chintakayala",
+      "Email": "saisrichandch.3030@gmail.com",
+      "Phone": "9505954869",
+      "GitHubLink": "https://github.com/srichand-ch",
+      "StopwatchTime": "01:24:15"
+    },
+    {
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "phone": "123456789",
+      "githubLink": "https://github.com/johndoe",
+      "stopwatchTime": "00:10:15"
+    },
+    {
+      "Name": "Jane doe Smith",
+      "Email": "jane.smith@gmail.com",
+      "Phone": "9238763210",
+      "GitHubLink": "https://github.com/janesmith",
+      "StopwatchTime": "00:15:30"
+    },
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@gmail.com",
+      "phone": "5555555555",
+      "githubLink": "https://github.com/alicejohnson",
+      "stopwatchTime": "00:20:45"
+    },
+    {
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "phone": "3333333333",
+      "githubLink": "https://github.com/bobbrown",
+      "stopwatchTime": "00:30:00"
+    },
+    {
+      "Name": "Likith Reddy",
+      "Email": "likith@gmail.com",
+      "Phone": "9584695872",
+      "GitHubLink": "https://github.com/likith",
+      "StopwatchTime": "00:14:15"
+    },
+    {
+      "Name": "aarsha sai",
+      "Email": "aarsha@gmail.com",
+      "Phone": "9706244859",
+      "GitHubLink": "https://github.com/aarsha",
+      "StopwatchTime": "00:00:41"
+    }
+  ]
+}
