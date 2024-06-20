@@ -56,7 +56,7 @@
 <h3>Ping</h3>
 
 <ul>
-  <li>Endpoint: /ping</li>
+  <li>Endpoint: <a href="/ping">/ping</a></li>
   <li>Method: GET</li>
   <li>Description: Checks server status.</li>
   <li>Response: Returns { "success": true } if the server is running.</li>
@@ -68,6 +68,31 @@
   <li>Endpoint: <a href="/submit">/submit</a> </li>
   <li>Method: POST</li>
   <li>Parameters: JSON object with fields: 'name', 'email', 'phone', 'githubLink', 'stopwatchTime'.</li>
-  <li>Description:  Stores a new form submission in the database..</li>
-  <li>Response: Returns { "success": true, "message": "Submission saved" } upon successful submission.</li>
+  <li>Description:  Stores a new form submission in the database.</li>
+  <li>Response: Returns '{ "success": true, "message": "Submission saved" }' upon successful submission.</li>
 </ul>
+
+<h3>Read Form</h3>
+
+<ul>
+  <li>Endpoint: <a href="/read">/read</a> </li>
+  <li>Method: GET</li>
+  <li>Query Parameters: index (0-indexed position of the form submission)</li>
+  <li>Description: Retrieves a form submission based on the specified index.</li>
+  <li>Response: Returns the form submission object as JSON or '{ "error": "No submissions found" }' if no submissions are available.</li>
+</ul>
+
+<h3>Delete Form</h3>
+
+<ul>
+  <li>Endpoint: <a href="/delete">/delete</a> </li>
+  <li>Method: DELETE</li>
+  <li>Parameters: 'index' (0-indexed position of the form submission to delete)</li>
+  <li>Description: Deletes a form submission based on the specified index.</li>
+  <li>Response: Returns '{ "message": "Deletion successful!" }' upon successful deletion or '{ "message": "Invalid index" }' if the index is out of range.</li>
+</ul>
+
+
+
+
+
