@@ -14,3 +14,6 @@
   <li>Node.js</li>
   <li>npm</li>
 </ul>
+
+<h3>Installation</h3>
+<p>1. Clone the repository: </p>
