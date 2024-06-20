@@ -48,3 +48,5 @@
 <p>This command uses 'ts-node' to directly execute TypeScript files ('src/index.ts'). It compiles TypeScript on-the-fly and runs the server.</p>
 
 </ul>
+
+<p>The server will start running on 'http://localhost:3000'.</p>
