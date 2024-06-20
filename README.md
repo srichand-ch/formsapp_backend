@@ -92,6 +92,8 @@
   <li>Response: Returns '{ "message": "Deletion successful!" }' upon successful deletion or '{ "message": "Invalid index" }' if the index is out of range.</li>
 </ul>
 
+<h3>Update Form</h3>
+
 <ul>
   <li>Endpoint: <a href="/update">/update</a> </li>
   <li>Method: PUT</li>
