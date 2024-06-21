@@ -6,14 +6,7 @@
 
 <p>To get started with the backend server, follow these steps:</p>
 
-<h3>Prerequisites</h3>
 
-<p>Ensure you have the following installed on your machine:</p>
-
-<ul>
-  <li>Node.js</li>
-  <li>npm</li>
-</ul>
 
 <h3>Installation</h3>
 
